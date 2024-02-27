@@ -53,13 +53,11 @@ DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,youboranqs01.com
 PROCESS-NAME,com.hbo.hbonow
-DOMAIN-SUFFIX,max.com, Max
-DOMAIN-SUFFIX,discomax.com, Max
 DOMAIN,api.apptentive.com
 DOMAIN,sdk.iad-01.braze.com
 DOMAIN,services.brightline.tv
 DOMAIN,wbd-api.arkoselabs.com
-DOMAIN-SUFFIX,api.discomax.com
+DOMAIN-SUFFIX,discomax.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,max.com
